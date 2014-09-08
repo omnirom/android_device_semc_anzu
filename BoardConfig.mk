@@ -15,8 +15,6 @@
 -include device/semc/mogami-common/BoardConfigCommon.mk
 -include vendor/semc/anzu/BoardConfigVendor.mk
 
-TARGET_SPECIFIC_HEADER_PATH += device/semc/anzu/include
-
 # Recovery
 DEVICE_RESOLUTION := 480x854
 
